@@ -7,7 +7,7 @@ Build instructions:
 5) make clean
 6) make
 
-To encode an raw black and white 8 bits/pixel image (PGM without the header):
+To encode a raw black and white 8 bits/pixel image (PGM without the header):
 
 <path to encoder>MMP2D-FT-MP -f <image file> -lin <number of lines> -col <number of columns>
 -nmax <number of lines of the largest block> -mmax <number of columns of the largest block>
