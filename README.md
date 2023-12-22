@@ -17,4 +17,5 @@ The program will create a file of the same name as the input image but with appe
 
 To decode an .mmp file:
 
-<path to decoder>UNMMP2D-FT-MP -f <mmp file>
+<path to decoder>UNMMP2D-FT-MP -f <mmp file> -lin <number of lines> -col <number of columns>
+-nmax <number of lines of the largest block> -mmax <number of columns of the largest block>
