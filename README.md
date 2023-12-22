@@ -1,12 +1,11 @@
 # MMP_2D_FT
 Build instructions:
-1) unzip the tar file.
-2) navigate to the Encoder directory.
-3) make clean
-4) make
-5) navigate to the Decoder directory.
-6) make clean
-7) make
+1) navigate to the Encoder directory.
+2) make clean
+3) make
+4) navigate to the Decoder directory.
+5) make clean
+6) make
 
 To encode an raw black and white 8 bits/pixel image (PGM without the header):
 
